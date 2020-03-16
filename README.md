@@ -2,7 +2,7 @@
 
 Dai Token Crypto Wallet
 
-![Final App](https://https://github.com/derekwebdevcom/Crypto-Wallet/blob/master/public/wallet.PNG)
+![Final App](https://github.com/derekwebdevcom/Crypto-Wallet/blob/master/public/wallet.PNG)
 
 This project uses the following technologies:
 
