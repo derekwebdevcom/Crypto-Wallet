@@ -1,0 +1,9 @@
+/* Styles go here */
+.content{
+    background-color: black;
+}
+
+input.hold1::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: black;
+  opacity: 1; /* Firefox */
+}
